@@ -99,12 +99,27 @@ Me chamo Gustavo Felipe de Souza Barros, tenho 24 anos e sou natural do Amazonas
 />
 <img 
     align="left" 
+    alt="Goland" 
+    title="Goland"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg"        
+/>
+<img 
+    align="left" 
+    alt="Angular" 
+    title="Angular"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg"      
+/>
+<img 
+    align="left" 
     alt="Python" 
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
 <br/>
 <br/>
